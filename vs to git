@@ -1,0 +1,6 @@
+git init #new git repo in cd
+git remote add origin "" #replace url with git repo
+git remte -v #means verify the remote
+git add .   #files to staging
+git commit -m "" #commit changes
+git push origin main 
